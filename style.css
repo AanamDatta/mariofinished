@@ -1,0 +1,36 @@
+#title {
+    float: left;
+}
+#button {
+    float: right;
+}
+#heading {
+    width: 100%;
+    margin: 0%;
+}
+#MyModal {
+    width: 90%;
+}
+.modal-dialog {
+    width: 90%;
+    text-align: center;
+}
+.img1 {
+    width: 40%;
+    display: inline-block;
+}
+.mario {
+    width: 100%;
+}
+#footer {
+    width: 100%;
+    margin: 0;
+    line-height: 3;
+
+}
+video {
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+}
